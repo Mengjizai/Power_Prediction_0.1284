@@ -1,5 +1,5 @@
 #国能日新光伏功率预测大赛
-------
+====
 感谢队友的baseline，我只开源了队友的baseline部分和我的相关特征，线上成绩1284。
 ##比赛链接
 http://www.dcjingsai.com/common/cmpt/%E5%9B%BD%E8%83%BD%E6%97%A5%E6%96%B0%E5%85%89%E4%BC%8F%E5%8A%9F%E7%8E%87%E9%A2%84%E6%B5%8B%E5%A4%A7%E8%B5%9B_%E6%8E%92%E8%A1%8C%E6%A6%9C.html
