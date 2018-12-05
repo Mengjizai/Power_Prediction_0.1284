@@ -16,7 +16,7 @@
 感谢队友的baseline，我只开源了队友的baseline部分和我的相关特征，队友baseline134左右，新添特征6个千左右，线上成绩1284。
 ……  
 ## 最后
-感谢队友carray，@小兔子乖乖，感谢@林佬指点。  
+感谢队友carray，[小兔子乖乖](https://github.com/PandasCute)，感谢[林佬](https://github.com/infturing)指点。  
 刚打比赛，不足之处请见谅。欢迎讨论交流，小萌鸡qq：2281894258
 
 
